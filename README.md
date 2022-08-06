@@ -30,4 +30,4 @@ $ php -S localhost:3000
 
 **Hopefully useful, for everything.** :smile: :punch:
 
-Developed By Joyfull Banjarnahor Ganteng
+Developed By Joyfull Banjarnahor Gantes
