@@ -35,4 +35,4 @@ $ php -S localhost:3000
 
 **Hopefully useful, for everything.** :smile: :punch:
 
-Developed By Fathan Rohman
+Developed By Joyfull Banjarnahor
